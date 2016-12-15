@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="iceland_trigger0" size="100.000000 75.000000" />
+    <ImageTarget name="iceland_trigger" size="100.000000 75.000000" />
+    <ImageTarget name="batman" size="100.000000 62.555557" />
+    <ImageTarget name="demo_trigger" size="100.000000 56.221889" />
+    <ImageTarget name="codepath_trigger" size="100.000000 56.221889" />
+    <ImageTarget name="codepath_kingsley" size="100.000000 100.000000" />
+    <ImageTarget name="14_dl_portland_scaled" size="100.000000 100.000000" />
+    <ImageTarget name="18_dl_fan_scaled" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>
